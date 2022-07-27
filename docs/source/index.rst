@@ -18,14 +18,9 @@ how to :ref:`installation` the project.
 
    m51868.rst
    m49027.rst
- 
+   m49028.rst
 
-3.  {: .chapter} `Psychological Research <contents/m49028.rst>`__
 
-    1. `Why Is Research Important? <contents/m49013.rst>`__
-    2. `Approaches to Research <contents/m49012.rst>`__
-    3. `Analyzing Findings <contents/m49011.rst>`__
-    4. `Ethics <contents/m49010.rst>`__
 
 4.  {: .chapter} `Biopsychology <contents/m49029.rst>`__
 

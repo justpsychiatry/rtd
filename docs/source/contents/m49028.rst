@@ -1,3 +1,19 @@
+======================
+Psychological Research
+======================
+
+.. toctree:: 
+   :caption: Topics
+
+   m49013.rst
+   m49012.rst
+   m49011.rst
+   m49010.rst
+
+    1. `? <contents/>`__
+    2. `Approaches to Research <contents/>`__
+    3. `Analyzing Findings <contents/>`__
+    4. `Ethics <contents/>`__
 class=“introduction”
 
 class=“summary” title=“Summary”

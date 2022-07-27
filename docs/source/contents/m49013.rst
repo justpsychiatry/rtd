@@ -1,3 +1,7 @@
+==========================
+Why Is Research Important
+==========================
+
 .. container::
 
    By the end of this section, you will be able to: \* Explain how
