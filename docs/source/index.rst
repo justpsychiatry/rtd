@@ -6,11 +6,11 @@ Welcome Clinical Psychology
    :maxdepth: 2
    :caption: Contents
    
-   ./contents/m51868
-   ./contents/m49027
-   ./contents/m49028
-   ./contents/m49029
-   ./contents/m49030
+   ./contents/m51868.rst
+   ./contents/m49027.rst
+   ./contents/m49028.rst
+   ./contents/m49029.rst
+   ./contents/m49030.rst
 
 ...
 
