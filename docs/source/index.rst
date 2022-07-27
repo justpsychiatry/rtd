@@ -17,14 +17,11 @@ how to :ref:`installation` the project.
    :caption: Contents
    :maxdepth: 2
    
-   :doc: `contents/m51868.rst`
-   :doc: `contents/m49027.rst`
-   :doc: `contents/m49028.rst`
+   :doc: `Preface <contents/m51868.rst>`
+   :doc: `Introduction to Psychology <contents/m49027.rst>`
+   :doc: `Research in Psychology <contents/m49028.rst>`
    :doc: `Biopsychology <contents/m49029.rst>`
-
-   
-
-5.  {: .chapter} `States of Consciousness <contents/m49030.rst>`__
+   :doc: `States of Consciousness <contents/m49030.rst>`
 
     1. `What Is Consciousness? <contents/m49031.rst>`__
     2. `Sleep and Why We Sleep <contents/m49032.rst>`__
