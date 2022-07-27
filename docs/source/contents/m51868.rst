@@ -1,9 +1,13 @@
+=========
+Preface
+=========
+
 Welcome to *Psychology*, an OpenStax resource. This textbook was written
 to increase student access to high-quality learning materials,
 maintaining highest standards of academic rigor at little to no cost.
 
 About OpenStax
-~~~~~~~~~~~~~~
+--------------
 
 OpenStax is a nonprofit based at Rice University, and it’s our mission
 to improve student access to education. Our first openly licensed

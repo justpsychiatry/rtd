@@ -1,3 +1,7 @@
+===========================
+Introduction to Psychology
+===========================
+
 class=“introduction”
 
 class=“summary” title=“Summary”

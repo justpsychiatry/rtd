@@ -20,16 +20,12 @@ Contents
 
    usage
    api
-
-.. container::
-
-1.  {: .preface} `Preface <contents/m51868.rst>`__
-2.  {: .chapter} `Introduction to Psychology <contents/m49027.rst>`__
-
-    1. `What Is Psychology? <contents/m49014.rst>`__
-    2. `History of Psychology <contents/m49017.rst>`__
-    3. `Contemporary Psychology <contents/m49016.rst>`__
-    4. `Careers in Psychology <contents/m49015.rst>`__
+   1.  {: .preface} `Preface <contents/m51868.rst>`__
+   2.  {: .chapter} `Introduction to Psychology <contents/m49027.rst>`__
+        1. `What Is Psychology? <contents/m49014.rst>`__
+        2. `History of Psychology <contents/m49017.rst>`__
+        3. `Contemporary Psychology <contents/m49016.rst>`__
+        4. `Careers in Psychology <contents/m49015.rst>`__
 
 3.  {: .chapter} `Psychological Research <contents/m49028.rst>`__
 
