@@ -5,8 +5,6 @@ Introduction to Psychology
 .. toctree::
    :caption: Topics
 
-   m51868.rst
-   m49027.rst
    m49014.rst
    m49017.rst
    m49016.rst
