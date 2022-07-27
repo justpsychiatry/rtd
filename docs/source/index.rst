@@ -1,13 +1,5 @@
-Welcome to Lumache's documentation!
+Welcome Clinical Psychology
 ===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -23,12 +15,17 @@ how to :ref:`installation` the project.
    :doc: `Biopsychology <contents/m49029.rst>`
    :doc: `States of Consciousness <contents/m49030.rst>`
 
-    1. `What Is Consciousness? <contents/m49031.rst>`__
-    2. `Sleep and Why We Sleep <contents/m49032.rst>`__
-    3. `Stages of Sleep <contents/m49033.rst>`__
-    4. `Sleep Problems and Disorders <contents/m49036.rst>`__
-    5. `Substance Use and Abuse <contents/m49037.rst>`__
-    6. `Other States of Consciousness <contents/m49038.rst>`__
+...
+
+Chapters
+---------
+
+1. `What Is Consciousness? <contents/m49031.rst>`__
+2. `Sleep and Why We Sleep <contents/m49032.rst>`__
+3. `Stages of Sleep <contents/m49033.rst>`__
+4. `Sleep Problems and Disorders <contents/m49036.rst>`__
+5. `Substance Use and Abuse <contents/m49037.rst>`__
+6. `Other States of Consciousness <contents/m49038.rst>`__
 
 6.  {: .chapter} `Sensation and Perception <contents/m49039.rst>`__
 
