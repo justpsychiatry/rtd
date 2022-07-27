@@ -44,6 +44,9 @@ intersphinx_mapping = {
     'justpsychiatry': ('https://justpsychiatry.co.uk/en/latest/', None),
 }
 
+bibtex_bibfiles = ['refs.bib']
+bibtex_reference_style = 'author_year'
+
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
