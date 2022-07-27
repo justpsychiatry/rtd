@@ -1,19 +1,16 @@
+=============================
 Welcome Clinical Psychology
-===================================
-
-.. note::
-
-   This project is under active development.
+=============================
 
 .. toctree::
+   :maxdepth: 2
    :caption: Contents
-   :maxdepth: 1
    
-   :doc: `Preface <contents/m51868.rst>`
-   :doc: `Introduction to Psychology <contents/m49027.rst>`
-   :doc: `Research in Psychology <contents/m49028.rst>`
-   :doc: `Biopsychology <contents/m49029.rst>`
-   :doc: `States of Consciousness <contents/m49030.rst>`
+   contents/m51868.rst
+   contents/m49027.rst
+   contents/m49028.rst
+   contents/m49029.rst
+   contents/m49030.rst
 
 ...
 
