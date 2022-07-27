@@ -2,6 +2,16 @@
 Introduction to Psychology
 ===========================
 
+.. toctree::
+   :caption: Topics
+
+   m51868.rst
+   m49027.rst
+   m49014.rst
+   m49017.rst
+   m49016.rst
+   m49015.rst
+
 class=“introduction”
 
 class=“summary” title=“Summary”
