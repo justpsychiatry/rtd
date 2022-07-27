@@ -15,20 +15,14 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :caption: Contents
+   :maxdepth: 2
+   
+   :doc: `contents/m51868.rst`
+   :doc: `contents/m49027.rst`
+   :doc: `contents/m49028.rst`
+   :doc: `Biopsychology <contents/m49029.rst>`
 
-   m51868.rst
-   m49027.rst
-   m49028.rst
-
-
-
-4.  {: .chapter} `Biopsychology <contents/m49029.rst>`__
-
-    1. `Human Genetics <contents/m48993.rst>`__
-    2. `Cells of the Nervous System <contents/m49003.rst>`__
-    3. `Parts of the Nervous System <contents/m49005.rst>`__
-    4. `The Brain and Spinal Cord <contents/m49006.rst>`__
-    5. `The Endocrine System <contents/m49007.rst>`__
+   
 
 5.  {: .chapter} `States of Consciousness <contents/m49030.rst>`__
 
