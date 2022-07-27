@@ -1,5 +1,13 @@
 # Configuration file for the Sphinx documentation builder.
 
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
+import sphinx_rtd_theme
+import sphinxcontrib.bibtex
+import myst_parser
+import sphinxcontrib.apa
+
 # -- Project information
 
 project = 'Clinically Oriented Psychology'
@@ -17,7 +25,18 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser',
+    'sphinx_rtd_theme',
+    'sphinxcontrib.bibtex',
+    'sphinxcontrib.apa'
 ]
+
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'myst',
+}
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
