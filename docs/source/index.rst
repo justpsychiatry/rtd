@@ -15,7 +15,7 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :caption: Contents
-   :maxdepth: 2
+   :maxdepth: 1
    
    :doc: `Preface <contents/m51868.rst>`
    :doc: `Introduction to Psychology <contents/m49027.rst>`
