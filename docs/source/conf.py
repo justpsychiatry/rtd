@@ -51,6 +51,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
+html_title = "Clinically Oriented Psychology"
+html_use_opensearch : True
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
